@@ -1,11 +1,11 @@
-# Hospital Management System
+# Library Management System
 
-A simple console-based Hospital Management System built using Kotlin.
+A simple console-based Library Management System built using Kotlin.
 
 ## Features
-- Add Patient
-- Show Patients
-- Discharge Patient
+- Add Book
+- Show Books
+- Issue Book
 - Exit
 
 ## Technologies
@@ -13,4 +13,4 @@ A simple console-based Hospital Management System built using Kotlin.
 - JVM
 
 ## Author
-Mohini tate
+Mohini Tate
